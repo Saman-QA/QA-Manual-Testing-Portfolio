@@ -7,7 +7,7 @@ It includes test cases and bug documentation for saucedemo.com
 ## What's Included
 - Test cases (positive and negative scenarios)
 - Bug reports (steps to reproduce, expected vs actual results)
-- View Full Test Report (Demo%20Website%20Report.xlsx)
+- View Full Test Report: https://github.com/Saman-QA/QA-Manual-Testing-Demo-website-/blob/main/Demo%20Website%20Report.xlsx
 
 ## Tools/Concepts Used
 - Manual Testing
