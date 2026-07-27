@@ -60,7 +60,7 @@ This repository contains **manual test execution reports** created as part of my
 ## 👩‍💻 Author
 **Saman**  
 [GitHub Profile](https://github.com/Saman-QA)  
-[LinkedIn Profile](www.linkedin.com/in/saman-riaz)  
+[LinkedIn Profile](https://www.linkedin.com/in/saman-riaz/)  
 📧 Email: samanriaz845@gmail.com
 
 ---
