@@ -65,19 +65,6 @@ This repository contains **manual test execution reports** created as part of my
 
 ---
 
-## 📅 Date
-July 2026
 
----
-
-## 🚀 How to View the Reports
-1. Download the `.xlsx` files.
-2. Open in Microsoft Excel or Google Sheets.
-3. Review the test cases, steps, and results.
-
----
-
-## 💡 Future Improvements
-- Add automation test scripts (Selenium / Cypress)
 - Add bug screenshots
 - Add performance testing reports
