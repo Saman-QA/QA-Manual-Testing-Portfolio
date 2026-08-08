@@ -1,13 +1,13 @@
 # QA Manual Testing Portfolio
 
-## 📌 Project Overview
+## Project Overview
 This repository contains **manual test execution reports** created as part of my QA testing practice. I have tested two demo e-commerce websites:
 1. **SauceDemo** – Demo e-commerce site for practice
 2. **Amazon** – Real-world e-commerce website
 
 ---
 
-## 📊 Test Summary
+## Test Summary
 
 ### SauceDemo.com
 | Metric | Value |
@@ -27,7 +27,7 @@ This repository contains **manual test execution reports** created as part of my
 
 ---
 
-## 🐞 Bugs Found
+## Bugs Found
 | Bug ID | Website | Module | Description | Severity | Priority | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | BUG_001 | SauceDemo | Checkout | Last name validation error | Major | High | Open |
@@ -35,29 +35,37 @@ This repository contains **manual test execution reports** created as part of my
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - Manual Testing
-- Google Chrome (Version 120+)
+- Internet Explorer
 - Microsoft Excel / Google Sheets
-- GitHub (Version Control)
+- GitHub
 
 ---
 
-## 📁 Files Included
-| File Name | Description |
-| :--- | :--- |
-| `Demo Website Report.xlsx` | Test cases and bug report for saucedemo.com |
-| `Test Case writing(Amazon E-commerce).xlsx` | Test cases for Amazon.com |
-| `README.md` | Project overview and documentation |
+## Files Included
+
+| File | Description |
+|---|---|
+| `saucedemo-test-cases.xlsx` | 20 manual test cases for SauceDemo website |
+| `amazon-ecommerce-test-cases.xlsx` | Test cases written for Amazon (real-world site) |
+| `manual-test-cases-20.xlsx` | Additional 20 manual test cases |
+| `demo-website-report.xlsx` | Test execution summary report |
+| `jira-bug-report.pdf` | Bug report documented in Jira format |
+
+---
+## Bug Tracking
+
+Bugs were also documented using **Jira-style bug reports** — including steps to reproduce, severity, priority, and status — to reflect real industry bug-tracking workflow. See `jira-bug-report.pdf`.
 
 ---
 
-## 📸 Screenshots
-*(Add screenshots of bugs here)*
+## Screenshots
+*(Add screenshots of bugs here(pending))*
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Saman**  
 [GitHub Profile](https://github.com/Saman-QA)  
 [LinkedIn Profile](https://www.linkedin.com/in/saman-riaz/)  
@@ -66,5 +74,3 @@ This repository contains **manual test execution reports** created as part of my
 ---
 
 
-- Add bug screenshots
-- Add performance testing reports
