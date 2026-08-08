@@ -67,9 +67,9 @@ Bugs were also documented using **Jira-style bug reports** — including steps t
 
 ##  Author
 **Saman**  
-[GitHub Profile](https://github.com/Saman-QA)  
-[LinkedIn Profile](https://www.linkedin.com/in/saman-riaz/)  
-📧 Email: samanriaz845@gmail.com
+GitHub Profile:(https://github.com/Saman-QA)  
+LinkedIn Profile:(https://www.linkedin.com/in/saman-riaz/)  
+Email: samanriaz845@gmail.com
 
 ---
 
