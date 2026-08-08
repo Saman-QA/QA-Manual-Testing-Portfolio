@@ -61,7 +61,7 @@ Bugs were also documented using **Jira-style bug reports** — including steps t
 ---
 
 ## Screenshots
-*(Add screenshots of bugs here(pending))*
+*[Bug Screenshot](https://github.com/Saman-QA/QA-Manual-Testing-Portfolio/blob/main/bug1-checkout-error.jpeg)*
 
 ---
 
